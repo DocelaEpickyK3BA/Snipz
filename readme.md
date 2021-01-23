@@ -1,4 +1,4 @@
-## Shai ~ Fast Discord Nitro Sniper(TM)
+## Snipz ~ Fast Discord Nitro Sniper(TM)
 ___
 **Features**
 1. Shai can snipe multiple codes in one message!
