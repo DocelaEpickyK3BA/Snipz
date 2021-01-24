@@ -1,8 +1,8 @@
 ## Snipz ~ Fast Discord Nitro Sniper(TM)
 ___
 **Features**
-1. Shai can snipe multiple codes in one message!
-2. Shai is ultra-fast like 0,5ms to snipe code!
+1. Snipz an snipe multiple codes in one message!
+2. Snipz is ultra-fast like 0,5ms to snipe code!
 
 **Installing Shai**
 1. Check if you have installed node.js(recommended version)
